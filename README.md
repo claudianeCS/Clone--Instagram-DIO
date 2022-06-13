@@ -1,7 +1,7 @@
 # Clone--Instagram-DIO
 
 
-<h1>Projeto Tela Inicio Instagram</h1>
+<h2>Projeto Tela Inicio Instagram</h2>
 
 - HTML 
 - CSS
